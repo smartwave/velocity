@@ -15,3 +15,12 @@ Getting to your velocity has three stages:
 ## Velocity
 ### Monitor Performance and Adjust Strategy
 
+## Influences
+* 5 Dysfuncitons of a Team
+* Lean Startup
+* Canvas
+* Gazelles
+* Traction
+* E-Myth
+* Four steps to the Epiphany
+* Tribal Leadership
