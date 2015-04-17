@@ -97,6 +97,10 @@ No one likes being wrong. Even if the idea has been tried before. Most people's 
 When we treat ideas and opinions a hypothesis and test them, we 
 to paraphrase Kurt Vonnegut from Galapagos once more, validating our ideas and treating opinion as a hypothesis allows people to not be "diverted from the main business of life by the hobgoblins of opinion.” 
 
+#### Potato, Tomatoe: Left Brain or Right Brain
+-staying focused and motivated
+-behavior change and managements
+
 #### You're never right until you've proven it
 “That, in my opinion, was the most diabolical aspect of those big brains: They would tell their owners, in effect, ‘Here is a crazy thing we could actually do, probably, but we would never do it, of course. It’s just fun to think about.’
 
