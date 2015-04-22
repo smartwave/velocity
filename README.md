@@ -81,6 +81,11 @@ Getting to your velocity has three stages:
 ### The Many Over the One
 A tenet of this method is that teams are more effective than individuals. An individual can use these methods alone and be successful, but as most of us aren't going to be lucky enough to have the exact right skills at the right time we will assume that you need a team of people with diverse skills to achieve growth. The challenge here is that building a tightly knit team (or "tribe") is more difficult because you do have to come to a common acceptance of the vision. This can be done by one person laying out the vision, or by helping the team come to consensus. 
 
+### Making the game
+Set the rules
+Create teh Model
+Get People in the game
+
 ### Differentiating between Vision, Goals and Impact
 Vision is the prescribed destinatation or end result of your efforts. 
 Goals are tangible, acheiveable results.
