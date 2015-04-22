@@ -451,6 +451,11 @@ Tools
 Recommended Reading
 * Strategic Selling
 
+### The Dreaded Business Plan
+Great gugga mugga these things are boring to write and can be more boring to read! I like to see the business plan as your organization's exciting novel. It should have its own story arc and remain interesting. It should also LOOK INTERESTING, so make sure to hire a designer if you want to grab someone's attention.
+
+Most financial folks that read this zip through the Exec summary, bounce to the financials section, then read bits and pieces of the document, making all your hard work seem like a waste. Make it interesting; infuse your team's personality. 
+
 ### Monitor Performance and Adjust Strategy
 
 ## Influences
