@@ -27,6 +27,15 @@ PURPOSE
 What do I love doing that I want to do forever?
 What would I regret not being/doing/having for myself if my life were to end at this moment?
 
+THE ENTREPRENEUR
+Lifestyle - A desire to have a certain lifestyle, whether made by freedom of choice or through financial wealth.
+
+Intense Motivation to Solve a Problem - whether a problem you have/face, one you've seen others face, or a problem that is not yet fully realized, the Entrepreneur is intensely motivated to solve that problem
+
+Establish Value - The ability to sell/pitch/present the value of your company and solution to all of your potential customers and stakeholders.
+
+Ability to Envision and implement your Idea to Scale - What separates an individual solo-preneur/project economy worker from the entrepreneur is the ability to envision how your company will work at scale, then begin implementing it through the iterative learning process.
+
 * Time Log
 * Inventory and Password List(s)
 
