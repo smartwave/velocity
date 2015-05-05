@@ -1,0 +1,108 @@
+# Alignment
+Let's get aligned to the Velocity principles. These exercises will help you document important informatio nthat will drive your busines' growth without compromising your values. They can also be insightful ways for you, your partners or your team to get to now themselves and each other better.
+
+## Recommended Reading
+These books and their content are referenced throughout this section and following sections. You don't need to read them, but being familiar with the books and their tools can help give you a deeper understanding of how to use them.
+* [Outliers - _Malcolm Gladwell_]()
+* 2
+
+## Resources and Tools
+Thes are the resources and tools you will need to get started.
+* 1
+* 2
+
+## Outcomes
+All methods are not for all people or situations. Velocity is geared for invididuals and groups seeking growth without sacrificing personal values or ethics. 
+
+# Important Topics
+
+# Thoughts On Entrepreneurs
+
+Visual of definition of entrepreneur
+
+entreprende, musical, undertaker of greater risk
+
+### The difference between an inventor, an entrepreneur and a business owner
+One person can be all three. But it is not as common for someone to be all three at once, and to be good at them at the first try. For a business to scale, it either has to be lucky (right people, right place, right skills, right time) or your leadership team must have these three personalities.
+
+#### The Inventor: Problem Solver (Technician)
+
+#### The Lifestyle: Lifestyle and Impact (Innovator)
+
+#### The Business Owner: Growth Oriented (Manager)
+
+THE ENTREPRENEUR
+Lifestyle - A desire to have a certain lifestyle, whether made by freedom of choice or through financial wealth.
+
+Intense Motivation to Solve a Problem - whether a problem you have/face, one you've seen others face, or a problem that is not yet fully realized, the Entrepreneur is intensely motivated to solve that problem
+
+Establish Value - The ability to sell/pitch/present the value of your company and solution to all of your potential customers and stakeholders.
+
+Ability to Envision and implement your Idea to Scale - What separates an individual solo-preneur/project economy worker from the entrepreneur is the ability to envision how your company will work at scale, then begin implementing it through the iterative learning process.
+
+# Know Yourself
+ ## Exercise - Define Your Purpose
+Ask yourself these questions:
+What is my purpose?
+What am I better at than everyone else? (Malcolm Gladwell: Outliers)
+-Secret: look to your own experiences up to this point in your life.
+What is my experience in that area?
+
+  ## PURPOSE
+What do I love doing that I want to do forever?
+What would I regret not being/doing/having for myself if my life were to end at this moment?
+
+ ## Define Your Values 
+
+# The Importance of Teams
+ ### The Many Over the One
+A tenet of this method is that teams are more effective than individuals. An individual can use these methods alone and be successful, but as most of us aren't going to be lucky enough to have the exact right skills at the right time we will assume that you need a team of people with diverse skills to achieve growth. The challenge here is that building a tightly knit team (or "tribe") is more difficult because you do have to come to a common acceptance of the vision. This can be done by one person laying out the vision, or by helping the team come to consensus. 
+
+
+# Building Your World
+ ### Building Your World: Running/Starting/Growing a Business
+WEre you ever one of those people to play Sim City, Civilization or any game that requires you to build a world from the ground up? If you were, you can appreciate how comparable those games have become to the task of running a business. Morale, safety, economic health and prosperity of the people are all intertwined. More importantly that that interconnectedness is the player's mood or personality. Who a person is and what they value will guide every decision that is needed in the game, which can be a inderance in some situations and a blessing in others. A person that favors winning at all costs might be willing to sacrifice people or allies, while someone adverse to conflict might opt for economic superiority. 
+
+In these games as in real life, your personal vision, desire for impact, goals and values guide each decision you make. 
+
+ ### Making the game
+Set the rules
+Create teh Model
+Get People in the game
+
+ ### Differentiating between Vision, Goals and Impact
+Vision is the prescribed destinatation or end result of your efforts. 
+Goals are tangible, acheiveable results.
+Impact can be tangible or intangible benefits to people or place that are not part of your business. 
+
+# Ambiguity and Failure is OK - Lean 
+ ### The supreme value of Failure
+No one likes being wrong. Even if the idea has been tried before. Most people's aversion to failure allows our magnificent brains to deceive us into believing that our opinions, guesses, conjecture and ideology are truth. Validation is a simple process that allows a team to confidently say "we might be wrong, but that's OK." This is the single most important concept in starting a business the lean way: it doesn't matter if you are right or wrong. The only thing that matters is that you treat all ideas as hypothesis, validate parts of your hypothesis, adjust what needs to be adjusted and repeat this process regularly. In a funny way, treating everything like a hypothesis that must be tested means your team will never be wrong, you'll just be business scientists always looking for the best way to do everything. 
+
+ #### You're never right until you've proven it
+> “That, in my opinion, was the most diabolical aspect of those big brains: They would tell their owners, in effect, ‘Here is a crazy thing we could actually do, probably, but we would never do it, of course. It’s just fun to think about.’
+
+>“And then, as though in trances, the people would actually do it.”
+
+That is a quote from Kurt Vonnegut's novel _Galapagos_, talking about the irrational, ofttimes harmful aspects of human nature to do something without understanding if the effort was worth the reward. _Galapagos_ is a great novel, and while Vonnegut's dark humor resonates throughout there is truth for professionals in his words: our intelligence can yield incredible benefits but can also wreak awesome destruction. It is relevant here because so often the Inventor, Entrepreneur and Business Owner become victims of their own 'big brains'. We think our product is great, or that our idea is revolutionary, or that making this one change will solve all our problems. In reality, we have determined that our opinion (or in the Lean language, our hypothesis) is actually not opinion at all, but truth. This is a highly dangerous proposition for anyone, but much more so for a group of people in an organization whose fates are tied to the health/success of that organization.
+
+
+When we treat ideas and opinions a hypothesis and test them, we 
+to paraphrase Kurt Vonnegut from Galapagos once more, validating our ideas and treating opinion as a hypothesis allows people to not be "diverted from the main business of life by the hobgoblins of opinion.” 
+
+# Leading vs. Bossing
+ #### Potato, Tomatoe: Left Brain or Right Brain
+-staying focused and motivated
+-behavior change and managements
+
+# Organizational Structures
+ ## Organizational and Governance Approaches
+Heirarchical
+* Oligarchy
+* Benevolant Monarchy
+
+Democratic
+* Holacracy
+
+Co-Operative
+* Co-Operative

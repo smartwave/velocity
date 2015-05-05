@@ -1,0 +1,6 @@
+# References
+
+* [Lean Busines Model Generation - _Osterwalder et al_]()
+* [7 Steps to the Epiphany - _Steve Blank_]()
+* [Human Centered Design Toolkit - _IDEO_]()
+* [Outliers - _Malcolm Gladwell_]()
