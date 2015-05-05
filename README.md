@@ -27,6 +27,8 @@ PURPOSE
 What do I love doing that I want to do forever?
 What would I regret not being/doing/having for myself if my life were to end at this moment?
 
+EUDAMONIA - via Bridgette
+
 * Time Log
 * Inventory and Password List(s)
 
