@@ -1,10 +1,10 @@
-# velocity
+# Velocity
 Velocity Business Acceleration Program is a freely shared set of steps and documents that help value-driven businesses grow.
 
-## DEDICATION
+### DEDICATION
 To Dan, Benjamin and Mike. Without our arguments on business and politics I would never have started or been inspired to share what I've learned with others. I am eternally grateful for our lessons together.
 
-## FOREWARD
+### FOREWARD
 Meus vitae opera est mea negotium
 Sed mea negotium est non meum vitae
 
@@ -99,7 +99,7 @@ Each 3-5 year Key Thrust/Capability has a corresponding expert on the Advisory B
 All methods are not for all people or situations. Velocity is geared for invididuals and groups seeking growth without sacrificing personal values or ethics. 
 
 Getting to your velocity has three stages:
-* [Preparation - Getting Ready])(/1-Pressurization)
+* [Preparation - Getting Ready](/1-Pressurization)
 * Pressurization - Changing
 * Maximize Velocity - Get Moving
 
