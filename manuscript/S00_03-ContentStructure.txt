@@ -7,9 +7,9 @@ Velocity is organized into four sections and three guides. All of the sources an
 
 
 Getting to your velocity has three stages:
-* [Preparation - Getting Ready](/1-Preparation)
-* [Pressurization - Changing](/2-Pressurization)
-* [Maximize Velocity - Get Moving](/3-Velocity)
+* [Start - Getting Ready](/1-Preparation)
+* [Change - Changing](/2-Pressurization)
+* [Grow - Get Moving](/3-Velocity)
 
 # Guides - Entrepreneurial Levels
 

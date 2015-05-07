@@ -3,7 +3,7 @@ S00-02-Foreward.txt
 
 S00-03-ContentStructure.txt
 
-S01_01-Alignment.txtS02_01-Preparation.txtS03_01-Pressurization.txtS04_01-Velocity.txt
+S01_01-Mindset.txtS02_01-Start.txtS03_01-Change.txtS04_01-Grow.txt
 
 E01_01-Startups.txtE02_01-EarlyStage.txtE03_01-Established.txt
 E04_01-Intrapreneur.txt
