@@ -1,0 +1,15 @@
+### Your Market, Early Adopters and Your Pitch
+Tools
+* SW(O)T - Tried and true
+* Buyer Persona Modeling
+* The Lean Pitch
+
+Before defining your business model, you must define your market and know your customer. Otherwise, you might be designing something that is neither wanted or needed! Having this deep understanding is crucial not only for honing your product/service, but to communicate effectively with stakeholders, customers and partners. This culminates in the entire team having a common way to explain the business model, the market and customers. 
+
+The Lean Pitch Questions
+   * Lean Pitch Outline - SBT (30 min)
+      * Who are our customer segments and early adopters?
+      * What are the current identified problems our customers have and what alternatives exist?
+      * What is our current value proposition and what is the high level concept of our business?
+      * What solutions do we offer/provide?
+      * What are our key metrics to measure our performance?

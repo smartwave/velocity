@@ -3,9 +3,29 @@ S00-02-Foreward.txt
 
 S00-03-ContentStructure.txt
 
-S01_01-Mindset.txtS02_01-Start.txtS03_01-Change.txtS04_01-Grow.txt
+S01_01-Aligned.txt
+S01_02-Mindset.txt
+S01_03-KeyConcepts.txt
+S01_04-BigBrain.txt
+S01_05-KnowThyself.txt
+S01_06-WorldBuilder.txt
 
-E01_01-Startups.txtE02_01-EarlyStage.txtE03_01-Established.txt
+S02_01-Start.txt
+S02_02-DefineParameters.txt
+S02_03-UnderstandStakeholders.txt
+S02_04-ModelOutline.txt
+S02_05-Validate.txt
+S02_06-Gameplan.txt
+
+S03_01-Change.txt
+
+S04_01-Grow.txt
+
+E01_01-Startups.txt
+E02_01-EarlyStage.txt
+E03_01-Established.txt
 E04_01-Intrapreneur.txt
+
+S00_04-Author.txt
 
 references.txt
