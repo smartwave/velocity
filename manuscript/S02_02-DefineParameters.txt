@@ -14,3 +14,15 @@ Inspired by E-Myth, Lean Pitch.
       * To do that, our business needs to be: 
       * This kind of model requires: (service/relationship level)
       * We will evaluate our success by: 
+      
+      # Organizational Structures
+ ## Organizational and Governance Approaches
+Heirarchical
+* Oligarchy
+* Benevolant Monarchy
+
+Democratic
+* Holacracy
+
+Co-Operative
+* Co-Operative

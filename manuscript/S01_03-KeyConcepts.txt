@@ -1,15 +1,27 @@
 # Important Topics
+Topics that you can use for discussion
 
-# The Competitiveness of Being Good
+## Recommended Reading
+These books and their content are referenced throughout this section and following sections. You don't need to read them, but being familiar with the books and their tools can help give you a deeper understanding of how to use them.
+* [Outliers - _Malcolm Gladwell_]()
+* [Servant Leadership - _ _]()
 
-Values can change, but they should remain intractable to compromise. 
+## Resources and Tools
+Thes are the resources and tools you will need to get started.
+* 1
+* 2
 
-It is competitively better to be purpose driven. Why?
+## Outcomes
+All methods are not for all people or situations. Velocity is geared for invididuals and groups seeking growth without sacrificing personal values or ethics. 
 
+# Concepts
+Lean
+Agile
+Human Centered
+Triple Bottom Line
+B Corporations
 
-
-# Thoughts On Entrepreneurs
-
+# What is an Entrepreneur
 Visual of definition of entrepreneur
 
 entreprende, musical, undertaker of greater risk
@@ -31,6 +43,11 @@ Intense Motivation to Solve a Problem - whether a problem you have/face, one you
 Establish Value - The ability to sell/pitch/present the value of your company and solution to all of your potential customers and stakeholders.
 
 Ability to Envision and implement your Idea to Scale - What separates an individual solo-preneur/project economy worker from the entrepreneur is the ability to envision how your company will work at scale, then begin implementing it through the iterative learning process.
+
+# The Competitiveness of Being Good
+Values can change, but they should remain intractable to compromise. 
+
+It is competitively better to be purpose driven. Why?
 
 # The Importance of Teams
  ### The Many Over the One
