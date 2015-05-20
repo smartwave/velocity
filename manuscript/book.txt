@@ -1,14 +1,11 @@
 S00-01-Dedication.txt
 S00-02-Foreward.txt
 
-S00-03-ContentStructure.txt
+S00_03-Alignment.txt
 
-S01_01-Aligned.txt
-S01_02-Mindset.txt
-S01_03-KeyConcepts.txt
-S01_04-BigBrain.txt
-S01_05-KnowThyself.txt
-S01_06-WorldBuilder.txt
+S01_02-Mindset.txtS01_03-KeyConcepts.txtS01_04-BigBrain.txtS01_05-KnowThyself.txtS01_06-WorldBuilder.txt
+
+S01_10-ContentStructure.txt
 
 S02_01-Start.txt
 S02_02-DefineParameters.txt
@@ -16,6 +13,7 @@ S02_03-UnderstandStakeholders.txt
 S02_04-ModelOutline.txt
 S02_05-Validate.txt
 S02_06-Gameplan.txt
+S02_07-BuildyourTeam.txt
 
 S03_01-Change.txt
 
