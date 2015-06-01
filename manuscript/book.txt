@@ -1,7 +1,7 @@
 S00-01-Dedication.txt
 S00-02-Foreward.txt
 
-S00_03-Alignment.txt
+S00_03-Introduction.txt
 
 S00_04-Entrepreneurs.txt
 
