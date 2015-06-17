@@ -2,8 +2,65 @@
 Velocity Business Acceleration Program is a freely shared set of steps and documents that help value-driven businesses grow.
 
 ## Velocity
-Recommended Reading
-* Strategic Selling
+
+## Recommended Reading
+These books and their content are referenced throughout this section and following sections. You don't need to read them, but being familiar with the books and their tools can help give you a deeper understanding of how to use them.
+* [Strategic Selling - _Malcolm Gladwell_]()
+* [Second Stage Entrepreneurship - Dan Weinfurter]()
+
+## Resources and Tools
+Thes are the resources and tools you will need to get started.
+* 1
+* 2
+
+
+## Outcomes
+Clarify the foundation of the tools outlined in the book so you know how to approach them. You will either know as much as you do about your motivations to run a business or more.
+
+* Solopreneurs
+* Small TEams/Startups (2-5)
+* Early Stage (6-25)
+* Second Stage (26-300)
+* Third Stage (301+)
+
+## Board of Directors and/or Advisors
+
+From _Second Stage Entrepreneurship_
+* Knowledge of financial management
+* knowledge of financing strategies and capital markets
+* access t capital resources
+* familiarirty with legal and government regulations
+* knowledge of your industry
+* functional knowledge of key assets of the business, such as sales, makreting, operations, research and design
+* industry contacts
+* location
+
+## Your Team
+The process to make a huge investment should be the same rigor you apply to hiring your first or key people.
+* Needs
+* Process documentation
+* User reqs
+* system reqs
+* Cost/benefit
+* vendor selection
+* check references
+* interviews and demos
+* research the vendor
+
+Always be recruiting, AKA always be establishing value and culture for customers and potential employees. How to buil an authentic culture and promote it. Love what you do and be good enough at it to want others to experience it, share your vision
+
+Give time to vet first few hires
+
+5 Phase selling process, 14 stages, in Asana
+
+Seling strategies diagram
+
+establishing value diagram and the value of stories
+
+### MEtrics are good, but not everything
+Managing beyond metrics and the sales components of the week further book are awesome.
+
+## Sales and Marketing
 
 ### The Dreaded Business Plan
 Great gugga mugga these things are boring to write and can be more boring to read! I like to see the business plan as your organization's exciting novel. It should have its own story arc and remain interesting. It should also LOOK INTERESTING, so make sure to hire a designer if you want to grab someone's attention.
