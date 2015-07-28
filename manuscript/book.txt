@@ -3,16 +3,12 @@ S00-02-Foreward.txt
 
 S00_03-Introduction.txt
 
-S00_04-Entrepreneurs.txt
-
 S01_10-ContentStructure.txt
 
 S01_01-Alignment.txt
-S01_02-Decisions.txt
-S01_03-KeyConcepts.txt
-S01_04-BigBrain.txt
-S01_05-KnowThyself.txt
-S01_06-WorldBuilder.txt
+S01_05-Align-Yourself.txt
+S01_05-Align-Your-Company.txt
+S01_05-Align-Your-Team.txt
 
 S02_01-Start.txt
 S02_02-DefineParameters.txt

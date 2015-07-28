@@ -3,7 +3,7 @@ A simple guide to udnerstanding how the Velocity book is organized.
 
 Velocity is organized into four sections and three guides. All of the sources and tools referenced are in the reference section. 
 
-# Sections - Velocity Stages 
+## Sections - Velocity Stages 
 
 
 Getting to your velocity has three stages:
@@ -11,8 +11,9 @@ Getting to your velocity has three stages:
 * [Change - Changing](/2-Pressurization)
 * [Grow - Get Moving](/3-Velocity)
 
-# Guides - Entrepreneurial Levels
+## Guides - Entrepreneurial Levels
 
+these should be hints in each section that provide help to that kind of person.
 
 * [Solopreneurs - Sole proprietors without employees and no intention to have them](/1-Preparation)
 * [Intrapreneurs - Individuals or teams taking on riskier endeavours within a established organization](/2-Pressurization)
