@@ -5,10 +5,12 @@ S00_03-Introduction.txt
 
 S01_10-ContentStructure.txt
 
-S01_01-Alignment.txt
+S01_01-Competitiveness.txt
+S01_02-Decisions.txt
 S01_05-Align-Yourself.txt
-S01_05-Align-Your-Company.txt
-S01_05-Align-Your-Team.txt
+S01_06-Align-Your-Company.txt
+S01_07-Align-Your-Team.txt
+S01_09-LEAN.txt
 
 S02_01-Start.txt
 S02_02-DefineParameters.txt

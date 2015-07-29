@@ -1,12 +1,14 @@
-# Know Yourself
+# Know Thyself
 
 ### Recommended Reading
 These books and their content are referenced throughout this section and following sections. You don't need to read them, but being familiar with the books and their tools can help give you a deeper understanding of how to use them.
+
 * [Outliers - _Malcolm Gladwell_]()
 * [Servant Leadership - _ _]()
 
 ### Resources and Tools
 Thes are the resources and tools you will need to get started.
+
 * 1
 * 2
 
