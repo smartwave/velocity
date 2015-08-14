@@ -1,0 +1,25 @@
+Information Security Practices for Small Business
+
+This will help you stay compliant with large companies that have more strict policies for their data, and are just good practices for you!
+
+MDM
+
+Antivirus
+
+Drive Encryption
+
+POLICIES
+Acceptable Use
+Data Sharing
+SEcurity Auditing Schedule
+Yearly SEcurity review and audit
+
+File Sharing (secure)
+
+Backup and Retention
+
+Data deletion
+
+Physical Data access
+
+Business Associate Agreement
