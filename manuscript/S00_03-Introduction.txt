@@ -1,23 +1,34 @@
 # Introduction - Is this for me?
-Before we get started, we need to make sure we are on the same page. We should also make sure that reading this book is worth your time. Time is unique in that way: it was created by mankind but is our only _truly_ limited resource. So let's use it wisely.
+Before we get started, we need to make sure we are on the same page, to make sure that reading this book is worth your time. Time is unique in that way: it was created by mankind but is our only _truly_ limited resource. So let's use it wisely. Before we determine if this is a fit for you, allow me to digress for a moment with an inspirational quote.
 
 > “Individual commitment to a group effort – that is what makes a team work, a company work, a society work, a civilization work.”
 -http://www.vincelombardi.com/quotes.html
 
-This quote was made by a guy who loved football and loved winning. It could have been said by Benjamin Franklin, Nelson Mandela, Winston Churchill or Mahatma Ghandi. Instead it was said by a guy who chose football over preisthood. Maybe his numeroues quotes strewn about through modern business talks were inspired by his first calling. Or maybe he just wanted to inspire his team to beat the crap out of the competition. Either way, it worked. Vince Lombardi was a winning coach, and even if your team doesn't want to run over the competition and leave them bleeding in the mud we can pull little gems like the above quote out and apply it for our own purposes here.
+This quote could have been said by Benjamin Franklin, Nelson Mandela, Winston Churchill or Mahatma Ghandi. Instead it was said by a guy who wanted to be a preist who ended up choosing to coach football. Maybe he was conflicted about his purpose in life. Maybe he wanted to inspire teams to beat the crap out of the competition, which doesn't befit the expectations of a preist. Either way, Vince Lombardi was a winning coach. He picked path for himself that yielded rewards. His numerous quotes strewn about through modern business talks were inspired by his second calling, but I like remembering that he chose a path of competition over a path of peace because he felt it was a better fit. So how does does this relate to you and your situation? 
 
-Using this quote as a basis, the methods contained herein assume the following:
+I'd like to clarify two things briefly: what a 'group' is and what constitutes 'group effort'. Your 'groups' can be any collection of people: your company, a department, your family, your neighborhood, etc. A person can be a part of many groups, though it is helpful to prioritize the importance of your groups based on what is important to you and your goals. 'Group effort' is the group's collective work and purpose. It may be different for each department, your family or your community. While a group's purpose can organically develop, intentionally bringing a vision of purpose to a group can accelerate the process and bring focus on specific types of work or goals. 
 
+<<<<<<< Updated upstream
 * Your 'group' extends beyond your company to your family, your community, your country, the world and the environment. 
 * A "group effort" isn't just a single goal, it is a collection of values, purpose and goals that can drive each decision we make
 * _You_ believe the concept of "do little/no harm" is something people and business should practice
 * Organizations can have a huge positive or negative impact on society
 * Doing 'the right thing' can be a better way to attract the right talent and customers for your business
 * Entrepreneurs want to solve a problem or create a lifestyle, not just make money
+=======
+This is the essential and most difficult part of your work: to intentionally focus a group of people on a collective effort to achieve desired outcomes. Even if your team doesn't want to run over the competition and leave them bleeding in the mud, the statement above holds true: individuals committed to a group effort makes a team work. The challenge for you as a leader is how to inspire that individual commitment to your group's efforts. My ongoing hypothesis is that people want to commit to something they feel invested in, and they invest in what fulfills their personal values and goals. This book is designed to help you figure out how to create an organization/environment that makes it easy for people to be inspired to fulfill the goals and efforts of your team(s).
+>>>>>>> Stashed changes
 
-You might not agree with some or all of these assumptions. If you think that profits should trump your personal values or good morals then I would suggest you put this book down and save that precious resource which is your time for thigns more suited to your tastes.
+Let's come back to the original point of this section: is this book for you? Well, if you're still reading and curious and haven't put this down I'd venture to say we're pretty close to a 'yes'. Let's go a little farther with some assumptions I have about you.
 
-However, if you are still curious what these assumptions mean or how to hold true to value AND drive business growth, then *_keep reading_*. This book is for you and will help you build a growth-oriented business that can be flexible and lean but still remain true to its core values. The values that you, the entrepreneur want to see your business embody. Still not sure it can be done? Well, let's find out. I believe it can be done in any industry, and that you can do it too. 
+* You want to build an organization or team, or guide an existing one
+* You want it to succeed (whatever your measure of success is)
+* you want it to stay true to your professional and personal values
+* You would like to be able to do good while you make money
+
+If most of these assumptions hold true for you, then *keep reading*. We are going to do just fine together. This book is for you and will help you build a business that meets your definition of success, remains flexible and lean but still maintains integrity to its core values. The values that you, the entrepreneur want to see your business embody. If you think that profits should trump your personal values or good morals then I would suggest you put this book down and save that precious resource which is your time for things more suited to your tastes.
+
+However, if you are still curious what these assumptions mean or how to hold true to value AND drive business growth, then *keep reading*.  Still not sure it can be done? Well, life is a grand experiment. You have everything to gain and only a little time to lose by reading on. I want to help you build something great. I believe it can be done in any industry, and that you can do it too. 
 
 Still reading? Good. You won't be disappointed.
 
